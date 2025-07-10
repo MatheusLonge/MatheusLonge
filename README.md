@@ -16,7 +16,7 @@
 
 📚 Curso atual: Python Completo (Udemy, 300h - 140h concluídas)  
 📚 Curso atual: Técnico em desenvolvimento de sistemas (SENAI-BA, 1200h)
-📍 Salvador - BA | Aberto a oportunidades remotas e presenciais<br><br>
+📍 Salvador - BA | Aberto a oportunidades remotas e presenciais
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-longe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

@@ -15,7 +15,7 @@
 - Repositório de estudos em Python (em breve)
 
 📚 Curso atual: Python Completo (Udemy, 300h - 140h concluídas)  
-📚 Curso atual: Técnico em desenvolvimento de sistemas (SENAI-BA, 1200h)
+📚 Curso atual: Técnico em desenvolvimento de sistemas (SENAI-BA, 1200h)<br>
 📍 Salvador - BA | Aberto a oportunidades remotas e presenciais
 
 <p align="center">

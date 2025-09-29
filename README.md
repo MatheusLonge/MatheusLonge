@@ -1,7 +1,8 @@
 # 👋 Opa! Eu sou Matheus Longe
 
-🎯 Estudante de desenvolvimento back-end, com foco em Python  
-📌 Automatizador de processos administrativos e entusiasta de soluções simples e eficientes  
+💻 Backend & Cybersecurity Enthusiast | Python • Java • PHP
+📊 Automation & Administrative Data Solutions
+🧠 Lifelong Learner | Problem Solver
 
 ## 🚧 Em aprendizado:
 - Python 3 (com POO e Design Patterns)

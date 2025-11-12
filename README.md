@@ -28,7 +28,7 @@
 ## 📚 Courses & Education
 
 - Complete Python Course (Udemy, 300h – 180h completed)  
-- Systems Development Technician (SENAI-BA, 1200h – 120h completed)  
+- Systems Development Technician (SENAI-BA, 1200h – 220h completed)  
 
 ---
 
